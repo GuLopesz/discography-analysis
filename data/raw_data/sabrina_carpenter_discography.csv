@@ -1,0 +1,69 @@
+﻿track_id;track_name;track_type;track_musical_genre;duration_ms;spotify_streams;spotify_global_peak;spotify_usa_peak;track_videoclip;videoclip_views;album;album_physical_sales;track_number;album_musical_genre;release_date;uri;acousticness;danceability;energy;instrumentalness;liveness;loudness;speechiness;tempo;valence
+0;Taste;Single;Rock Pop;157280;225.991.075;3;1;Yes;72.175.544;Short n' Sweet;342500;1;Pop;23/8/2024;spotify:track:5G2f63n7IPVPPjfNIGih7Q;0.101;0.674;0.907;0;0.297;-4.086;0.064;112.964;0.721
+1;Please Please Please;Single;Country Pop;186365;799.883.111;1;1;Yes;110.879.296;Short n' Sweet;342500;2;Pop;6/6/2024;spotify:track:2tHwzyyOLoWSFqYNjeVMzj;0.257;0.675;0.586;0;0.104;-6.086;0.0531;107.015;0.621
+2;Good Graces;B-Side;R&B;185265;84.670.729;11;7;No;0;Short n' Sweet;342500;3;Pop;23/8/2024;spotify:track:102YUQbYmwdBXS7jwamI90;0.329;0.758;0.759;3.96e-06;0.144;-5.315;0.0479;126.012;0.732
+3;Sharpest Tool;B-Side;Folk Pop;218284;55.698.940;25;12;No;0;Short n' Sweet;342500;4;Pop;23/8/2024;spotify:track:3iPIDAFybaoyqX7hvAfWkl;0.475;0.716;0.63;0;0.0943;-7.509;0.108;91.003;0.588
+4;Coincidence;B-Side;Country Pop;164203;57.407.951;28;15;No;0;Short n' Sweet;342500;5;Pop;23/8/2024;spotify:track:5oIVNm56t6OIf9ZjdEG3ud;0.362;0.418;0.815;0;0.125;-6.216;0.125;77.862;0.758
+5;Bed Chem;B-Side;Synth Pop;171870;119.052.743;9;7;No;0;Short n' Sweet;342500;6;Pop;23/8/2024;spotify:track:1UHS8Rf6h5Ar3CDWRd3wjF;0.0678;0.739;0.727;0;0.104;-5.968;0.0426;94.99;0.676
+6;Espresso;Single;Disco Pop;175459;1.310.500.749;1;1;Yes;176.789.086;Short n' Sweet;342500;7;Pop;11/4/2024;spotify:track:2HRqTpkrJO5ggZyyK6NPWz;0.131;0.699;0.776;5.36e-06;0.205;-5.282;0.0293;103.963;0.708
+7;Dumb & Poetic;B-Side;Folk Pop;133479;40.767.797;45;20;No;0;Short n' Sweet;342500;8;Pop;23/8/2024;spotify:track:5VhvD0AKRprEaFtPNKGBQR;0.772;0.471;0.389;0;0.247;-5.421;0.0264;78.092;0.238
+8;Slim Pickins;B-Side;Country Pop;152195;47.639.965;37;17;No;0;Short n' Sweet;342500;9;Pop;23/8/2024;spotify:track:0XkZmBCCcdMY0EPY8ij6Gb;0.288;0.619;0.542;0;0.151;-8.681;0.0529;99.824;0.308
+9;Juno;B-Side;Bubblegum Pop;223192;67.044.267;23;13;No;0;Short n' Sweet;342500;10;Pop;23/8/2024;spotify:track:21B4gaTWnTkuSh77iWEXdS;0.0461;0.633;0.725;0;0.205;-4.257;0.0427;130.504;0.64
+10;Lie To Girls;B-Side;Alternative Pop;202001;36.130.923;55;22;No;0;Short n' Sweet;342500;11;Pop;23/8/2024;spotify:track:5il0jwWUlvgtIzWvzJi12z;0.464;0.661;0.414;0;0.37;-9.073;0.0404;119.921;0.224
+11;Don’t Smile;B-Side;Synth Pop;206296;40.068.842;50;21;No;0;Short n' Sweet;342500;12;Pop;23/8/2024;spotify:track:09LrGvT9KsACH66RHYMDyR;0.448;0.628;0.453;0.000538;0.165;-10.141;0.0271;89.969;0.328
+12;opposite;B-Side;Alternative Pop;168170;54.996.275;0;0;No;0;emails i can’t send fwd;0;14;Pop;17/3/2023;spotify:track:27Jko74ZSVY1kwt0vMY6Pu;0.831;0.622;0.44;0;0.11;-9.624;0.0348;82.448;0.654
+13;Feather;Single;Dance Pop;185553;660.019.090;34;20;Yes;88.115.820;emails i can’t send fwd;0;15;Pop;17/3/2023;spotify:track:2Zo1PcszsT9WQ0ANntJbID;0.0736;0.791;0.694;1.75e-06;0.0958;-4.332;0.0335;123.508;0.826
+14;Lonesome;B-Side;Country Pop;187592;20.701.912;0;0;No;0;emails i can’t send fwd;0;16;Pop;17/3/2023;spotify:track:0HYhOGKAHiOsv8GW4JdMJ8;0.375;0.606;0.336;8,00E-05;0.107;-11.04;0.0392;111.235;0.368
+15;things i wish you said;B-Side;Acoustic Pop;162749;31.125.057;0;0;No;0;emails i can’t send fwd;0;17;Pop;17/3/2023;spotify:track:2t2fnYja6b2pUizMungIo0;0.741;0.518;0.246;0;0.109;-11.606;0.0399;146.344;0.146
+16;emails i can't send;B-Side;Acoustic Pop;104408;119.502.904;0;0;No;0;emails i can’t send;77500;1;Pop;15/7/2022;spotify:track:6xi4KL7KDYjzz3wuvLBeOg;0.757;0.515;0.387;0;0.622;-10.614;0.192;86.313;0.408
+17;Vicious;Single;Power Pop;149891;101.917.234;0;0;No;0;emails i can’t send;77500;2;Pop;1/7/2022;spotify:track:3o99q6o0C2HdEiXJbLL5Wb;0.308;0.721;0.457;0;0.258;-6.916;0.159;129.98;0.63
+18;Read your Mind;B-Side;Dance Pop;207850;114.738.568;0;0;No;0;emails i can’t send;77500;3;Pop;15/7/2022;spotify:track:2Irr5XfPM6cyoKijHSCrqM;0.0111;0.672;0.803;0;0.0782;-5.061;0.049;120.058;0.578
+19;Tornado Warnings;B-Side;Pop;204180;54.857.790;0;0;No;0;emails i can’t send;77500;4;Pop;15/7/2022;spotify:track:53pcTIVGVE58vWWM7hfYPl;0.171;0.7;0.571;0;0.0938;-7.713;0.0591;115.036;0.579
+20;because i liked a boy;Single;Alternative Pop;196458;248.107.315;0;185;Yes;35.261.970;emails i can’t send;77500;5;Pop;15/7/2022;spotify:track:1Y7qOCA4FMQlxJjpekw8X0;0.363;0.386;0.592;0;0.117;-7.299;0.374;146.879;0.161
+21;Already Over;B-Side;Country Pop;170827;64.096.449;0;0;No;0;emails i can’t send;77500;6;Pop;15/7/2022;spotify:track:443Rp7TCj7n3SNDkmRIQb6;0.434;0.546;0.788;0;0.121;-7.109;0.543;113.582;0.468
+22;how many things;B-Side;Acoustic Pop;243880;30.271.868;0;0;No;0;emails i can’t send;77500;7;Pop;15/7/2022;spotify:track:6NvlhDdVgFotNgPK30LM2T;0.902;0.518;0.227;0;0.367;-9.457;0.0354;81.174;0.571
+23;bet u wanna;B-Side;R&B;191025;43.527.528;0;0;No;0;emails i can’t send;77500;8;Pop;15/7/2022;spotify:track:2emeScREzF5sqckc9Lejc4;0.0121;0.589;0.632;0;0.403;-6.818;0.16;102.311;0.46
+24;Nonsense;Single;R&B;163648;998.937.536;17;15;Yes;96.393.517;emails i can’t send;77500;9;Pop;15/7/2022;spotify:track:6jSQ6c7OkA4ExGWM61uYcS;0.0268;0.74;0.697;0;0.224;-4.912;0.034;138.992;0.732
+25;Fast Times;Single;Dance Pop;174540;71.247.755;0;0;Yes;11.462.247;emails i can’t send;77500;10;Pop;18/2/2022;spotify:track:2PF942PpnXkvXgLjphm8gG;0.0687;0.721;0.666;0;0.045;-4.699;0.0408;132.465;0.739
+26;skinny dipping;Single;Folk Pop;177751;54.352.683;0;0;Yes;5.574.636;emails i can’t send;77500;11;Pop;9/9/2021;spotify:track:436RVcyrHyXdqYNWGYMxx5;0.261;0.452;0.536;0;0.14;-8.864;0.14;122.375;0.426
+27;Bad for Business;B-Side;Pop;188338;33.553.631;0;0;No;0;emails i can’t send;77500;12;Pop;15/7/2022;spotify:track:1pp48yqPWZIsaDSIBrVe0r;0.364;0.601;0.538;0;0.131;-8.705;0.0406;107.973;0.593
+28;decode;B-Side;Pop;188167;34.748.319;0;0;No;0;emails i can’t send;77500;13;Pop;15/7/2022;spotify:track:58AFokYCv4jdJ2T0hEoQ2r;0.687;0.591;0.368;0;0.0847;-9.235;0.0414;122.161;0.423
+29;In My Bed;Single;Electropop;189981;39.012.841;0;0;Yes;13.071.264;Singular: Act II;30000;1;Electropop;7/6/2019;spotify:track:1FjD1jpm51dH5LzLvrDVPY;0.0714;0.545;0.385;0.0014;0.0859;-6.01;0.299;218.365;0.655
+30;Pushing 20;Single;Dance Pop;166234;18.119.777;0;0;No;0;Singular: Act II;30000;2;Electropop;8/3/2019;spotify:track:1xMHC2XPuDyBWU1ULY7eMA;0.171;0.633;0.814;0;0.161;-2.876;0.313;150.789;0.623
+31;I Can't Stop Me;B-Side;R&B;222101;15.687.657;0;0;No;0;Singular: Act II;30000;3;Electropop;19/7/2019;spotify:track:1AVVv4FgNLxQlV64j7dfP1;0.288;0.677;0.69;0;0.103;-3.111;0.0741;139.995;0.545
+32;I'm Fakin;B-Side;Dance Pop;175310;24.883.036;0;0;No;0;Singular: Act II;30000;4;Electropop;12/7/2019;spotify:track:62dMfMIAoHZcu3ne9Ie3RE;0.0939;0.729;0.828;0;0.0826;-3.223;0.0645;160.007;0.506
+33;Take Off All Your Cool;B-Side;Electropop;183755;5.790.070;0;0;No;0;Singular: Act II;30000;5;Electropop;19/7/2019;spotify:track:27B9H3cOefm9lWDfh9A0gj;0.216;0.514;0.713;0;0.138;-4.207;0.457;117.042;0.809
+34;Tell Em;B-Side;R&B;280442;6.773.880;0;0;No;0;Singular: Act II;30000;6;Electropop;19/7/2019;spotify:track:1CXLy7cfmAuxoIYcVM3wtK;0.143;0.792;0.134;0;0.131;-11.12;0.054;102.985;0.199
+35;Exhale;Single;R&B;164709;54.306.954;0;0;Yes;8.327.548;Singular: Act II;30000;7;Electropop;3/5/2019;spotify:track:6CagMrZXJUdGGIw6Eaepos;0.879;0.513;0.266;0;0.123;-10.611;0.0357;74.009;0.276
+36;Take You Back;B-Side;Dance Pop;169058;5.693.698;0;0;No;0;Singular: Act II;30000;8;Electropop;19/7/2019;spotify:track:1NF9ux53nctr5Rjb3c8i7D;0.0794;0.625;0.7;0;0.143;-3.801;0.135;199.847;0.517
+37;Looking at Me;B-Side;Latin Pop;181120;301.602.858;0;0;No;0;Singular: Act II;30000;9;Electropop;19/7/2019;spotify:track:59tskctgqUmjCWAwhzYAFm;0.00398;0.681;0.798;5.11e-06;0.0542;-4.367;0.0375;105.99;0.516
+38;Almost Love;Single;Dance Pop;212360;45.559.372;0;0;Yes;49.717.933;Singular: Act I;40000;1;Electropop;6/6/2018;spotify:track:1yXFAwSMDZmX2ZyDLLyQ9s;0.111;0.81;0.759;4.73e-06;0.0919;-3.029;0.0376;104.993;0.615
+39;Paris;Single;Electropop;218080;52.306.733;0;0;Yes;22.572.446;Singular: Act I;40000;2;Electropop;25/10/2018;spotify:track:359HNzfOXhCMHB1pNKhyfH;0.0482;0.576;0.671;0;0.114;-6.408;0.0474;114.839;0.226
+40;Hold Tight;B-Side;R&B;175160;7.663.891;0;0;No;0;Singular: Act I;40000;3;Electropop;9/11/2018;spotify:track:72DnQlaqdNhz9QJZXfYe6L;0.126;0.582;0.383;0;0.25;-8.576;0.195;135.535;0.388
+41;Sue Me;Single;Electropop;179227;246.105.336;0;0;Yes;59.598.448;Singular: Act I;40000;4;Electropop;9/11/2018;spotify:track:3WVhkjB7Y4xFruqoCAajBb;0.0422;0.46;0.809;5.04e-05;0.138;-5.415;0.326;157.184;0.609
+42;prfct;B-Side;R&B;166533;11.245.366;0;0;No;0;Singular: Act I;40000;5;Electropop;9/11/2018;spotify:track:75wU86jr8iIiBVfD3kU3cU;0.18;0.789;0.771;0;0.336;-5.191;0.0581;122.966;0.5
+43;Bad Time;Single;Electropop;184533;14.269.412;0;0;No;0;Singular: Act I;40000;6;Electropop;2/11/2018;spotify:track:1YqPDOmooQQIXsRSdbRrwI;0.243;0.667;0.536;0;0.566;-6.54;0.0623;82.964;0.693
+44;Mona Lisa;B-Side;R&B;138453;17.711.342;0;0;No;0;Singular: Act I;40000;7;Electropop;9/11/2018;spotify:track:7Gq4tfeuWPjr6WQiB7aBXz;0.277;0.764;0.473;0;0.117;-6.59;0.0451;143.999;0.53
+45;Diamonds Are Forever;B-Side;R&B;229533;15.473.702;0;0;No;0;Singular: Act I;40000;8;Electropop;9/11/2018;spotify:track:2KTdmzSdPipwFYdUdilmi3;0.00107;0.418;0.574;0;0.114;-4.497;0.0343;175.816;0.324
+46;On Purpose;Single;Dance Pop;238133;49.258.893;0;0;Yes;47.349.796;EVOLution;45000;1;Pop;29/7/2016;spotify:track:1Xmjr9Cft2ZdiGVZPxhqCs;0.0294;0.603;0.781;0;0.0905;-4.221;0.0412;99.966;0.252
+47;Feels Like Loneliness;B-Side;Pop;200573;10.060.654;0;0;No;0;EVOLution;45000;2;Pop;14/10/2016;spotify:track:0QTOY1FBKwC7jA33N8cLSi;0.0975;0.746;0.638;0.00752;0.173;-4.766;0.0923;127.985;0.333
+48;Thumbs;Single;Electropop;216467;297.313.806;159;120;Yes;256.968.674;EVOLution;45000;3;Pop;7/10/2016;spotify:track:6WC5fhc9XMaCrUNKNjm9xE;0.0284;0.73;0.718;0;0.0892;-3.496;0.0478;135.045;0.127
+49;No Words;B-Side;Pop;212587;7.660.930;0;0;No;0;EVOLution;45000;4;Pop;14/10/2016;spotify:track:7gnUZFwdWMCaLNPDbGaq0Y;0.0255;0.72;0.801;5.44e-06;0.298;-3.542;0.0763;94.974;0.649
+50;Run and Hide;Single;R&B;209640;14.235.909;0;0;No;0;EVOLution;45000;5;Pop;20/9/2016;spotify:track:24fhYqs2KtWbHfY4Ngdf5U;0.863;0.522;0.362;0;0.161;-7.72;0.0529;155.978;0.454
+51;Mirage;B-Side;Pop;205480;7.039.050;0;0;No;0;EVOLution;45000;6;Pop;14/10/2016;spotify:track:1PnDrmc20HzbzfqVA53iYD;0.214;0.635;0.578;0.0182;0.0928;-9.64;0.0375;101.99;0.202
+52;Don't Want it Back;B-Side;Pop;181853;8.232.863;0;0;No;0;EVOLution;45000;7;Pop;14/10/2016;spotify:track:2yqhHi9QfZ5INE13sS5Bva;0.0493;0.523;0.67;0;0.22;-3.576;0.0313;98.052;0.511
+53;Shadows;B-Side;Pop;172427;16.371.047;0;0;No;0;EVOLution;45000;8;Pop;14/10/2016;spotify:track:65RTUeyKsXuiIocxEzYhMY;0.579;0.532;0.561;0;0.0915;-3.107;0.0347;125.355;0.288
+54;Space;B-Side;Pop;186293;6.645.538;0;0;No;0;EVOLution;45000;9;Pop;14/10/2016;spotify:track:4uiZziAgyMvmKr4tujpcXm;0.0597;0.619;0.707;5.02e-05;0.206;-6.035;0.0637;100.1;0.623
+55;All We Have Is Love;Single;Dance Pop;182293;11.930.966;0;0;No;0;EVOLution;45000;10;Pop;23/9/2016;spotify:track:4WFWvM4zjMgjQxmP21ezfO;0.499;0.658;0.699;1.25e-05;0.0692;-4.766;0.0368;129.768;0.437
+56;Eyes Wide Open;Single;Folk Pop;192720;51.881.177;0;0;Yes;80.116.330;Eyes Wide Open;40000;1;Folk Pop;7/4/2015;spotify:track:4pbrp5dxpqjfaf4GiS6YuO;0.00435;0.584;0.641;1.22e-06;0.113;-6.637;0.0284;88.033;0.353
+57;Can't Blamea Girl for trying;Single;Folk Pop;169307;67.713.871;0;0;Yes;75.550.560;Eyes Wide Open;40000;2;Folk Pop;14/3/2014;spotify:track:5K7fGxZQB0K5sPKhLe9e07;0.449;0.601;0.392;0;0.13;-7.322;0.0342;143.716;0.352
+58;The Middle of Starting Over;Single;Folk Pop;212760;22.589.922;0;0;Yes;44.882.679;Eyes Wide Open;40000;3;Folk Pop;8/4/2014;spotify:track:5wX5skuafFdeF31vpM6Krl;0.0107;0.49;0.805;0;0.381;-6.041;0.0302;92.033;0.32
+59;We'll Be The Stars;Single;Folk Pop;186880;30.827.576;0;0;Yes;39.780.097;Eyes Wide Open;40000;4;Folk Pop;13/1/2015;spotify:track:7lqkNvVxJdYDCSAwSJNzHs;0.00786;0.563;0.513;0;0.154;-5.13;0.0259;82.959;0.428
+60;Two Young Hearts;B-Side;Folk Pop;233600;8.440.684;0;0;No;0;Eyes Wide Open;40000;5;Folk Pop;14/4/2015;spotify:track:47hRbUwwBU3E2wyIA8OE4x;0.00394;0.605;0.69;0;0.134;-7.512;0.0379;110.058;0.197
+61;Your Love's Like;B-Side;Folk Pop;209080;12.461.773;0;0;No;0;Eyes Wide Open;40000;6;Folk Pop;14/4/2015;spotify:track:1fVnTuUKlhkFqZ6HXV56s6;0.00621;0.536;0.737;1.52e-06;0.112;-5.776;0.0332;78.016;0.387
+62;Too Young;B-Side;Folk Pop;254347;20.368.456;0;0;No;0;Eyes Wide Open;40000;7;Folk Pop;14/4/2015;spotify:track:694MyEbGgAtoEVYqdtfvp2;0.376;0.317;0.489;0;0.248;-6.899;0.0336;151.492;0.165
+63;Seamless;B-Side;Folk Pop;186440;15.584.980;0;0;No;0;Eyes Wide Open;40000;8;Folk Pop;14/4/2015;spotify:track:75s1b4uRCk6UPOPBLNdDIA;0.817;0.607;0.295;0;0.0848;-8.613;0.0312;76.797;0.677
+64;Right Now;B-Side;Folk Pop;215227;6.258.697;0;0;No;0;Eyes Wide Open;40000;9;Folk Pop;14/4/2015;spotify:track:3hqJdqziOPbu422kXaOyII;0.0407;0.649;0.678;0;0.156;-6.233;0.0401;107.978;0.528
+65;Darling I'm a Mess;B-Side;Folk Pop;179053;6.939.393;0;0;No;0;Eyes Wide Open;40000;10;Folk Pop;14/4/2015;spotify:track:6rdKHwxWa9aqWyoGf1r20v;0.672;0.552;0.484;0;0.124;-6.875;0.0271;89.677;0.466
+66;White Flag;B-Side;Folk Pop;198387;8.028.555;0;0;No;0;Eyes Wide Open;40000;11;Folk Pop;8/4/2015;spotify:track:6xQdHOX1Tq3IrKsQdLs0nc;0.287;0.678;0.731;0;0.0784;-4.432;0.0256;96.01;0.86
+67;Best Thing I Got;B-Side;Folk Pop;199280;10.717.705;0;0;No;0;Eyes Wide Open;40000;12;Folk Pop;8/4/2015;spotify:track:66g4mn8jSks0Hu1zEcc81G;0.00877;0.671;0.696;0.000143;0.298;-5.641;0.0273;129.987;0.629
