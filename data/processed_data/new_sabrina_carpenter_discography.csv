@@ -1,7 +1,7 @@
 track_id;track_name;track_type;track_musical_genre;duration_ms;spotify_streams;spotify_global_peak;spotify_usa_peak;track_videoclip;videoclip_views;album;album_physical_sales;track_number;album_musical_genre;release_date;uri;acousticness;danceability;energy;instrumentalness;liveness;loudness;speechiness;tempo;valence
-0;Taste;Single;Rock Pop;157280;1.588.294.282;3;1;Yes;72.175.544;Short n' Sweet;342500;1;Pop;23/8/2024;spotify:track:5G2f63n7IPVPPjfNIGih7Q;0.101;0.674;0.907;0;0.297;-4.086;0.064;112.964;0.721
+0;Taste;Single;Rock Pop;157280;1.588.294.282;2;1;Yes;72.175.544;Short n' Sweet;342500;1;Pop;23/8/2024;spotify:track:5G2f63n7IPVPPjfNIGih7Q;0.101;0.674;0.907;0;0.297;-4.086;0.064;112.964;0.721
 1;Please Please Please;Single;Country Pop;186365;2.005.763.108;1;1;Yes;110.879.296;Short n' Sweet;342500;2;Pop;6/6/2024;spotify:track:2tHwzyyOLoWSFqYNjeVMzj;0.257;0.675;0.586;0;0.104;-6.086;0.0531;107.015;0.621
-2;Good Graces;B-Side;R&B;185265;473.915.348;11;7;No;0;Short n' Sweet;342500;3;Pop;23/8/2024;spotify:track:102YUQbYmwdBXS7jwamI90;0.329;0.758;0.759;3.96e-06;0.144;-5.315;0.0479;126.012;0.732
+2;Good Graces;B-Side;R&B;185265;473.915.348;9;7;No;0;Short n' Sweet;342500;3;Pop;23/8/2024;spotify:track:102YUQbYmwdBXS7jwamI90;0.329;0.758;0.759;3.96e-06;0.144;-5.315;0.0479;126.012;0.732
 3;Sharpest Tool;B-Side;Folk Pop;218284;241.571.744;25;12;No;0;Short n' Sweet;342500;4;Pop;23/8/2024;spotify:track:3iPIDAFybaoyqX7hvAfWkl;0.475;0.716;0.63;0;0.0943;-7.509;0.108;91.003;0.588
 4;Coincidence;B-Side;Country Pop;164203;277.833.204;28;15;No;0;Short n' Sweet;342500;5;Pop;23/8/2024;spotify:track:5oIVNm56t6OIf9ZjdEG3ud;0.362;0.418;0.815;0;0.125;-6.216;0.125;77.862;0.758
 5;Bed Chem;B-Side;Synth Pop;171870;889.814.971;9;7;No;0;Short n' Sweet;342500;6;Pop;23/8/2024;spotify:track:1UHS8Rf6h5Ar3CDWRd3wjF;0.0678;0.739;0.727;0;0.104;-5.968;0.0426;94.99;0.676
@@ -67,15 +67,15 @@ track_id;track_name;track_type;track_musical_genre;duration_ms;spotify_streams;s
 65;Darling I'm a Mess;B-Side;Folk Pop;179053;8.252.662;0;0;No;0;Eyes Wide Open;40000;10;Folk Pop;14/4/2015;spotify:track:6rdKHwxWa9aqWyoGf1r20v;0.672;0.552;0.484;0;0.124;-6.875;0.0271;89.677;0.466
 66;White Flag;B-Side;Folk Pop;198387;9.496.468;0;0;No;0;Eyes Wide Open;40000;11;Folk Pop;8/4/2015;spotify:track:6xQdHOX1Tq3IrKsQdLs0nc;0.287;0.678;0.731;0;0.0784;-4.432;0.0256;96.01;0.86
 67;Best Thing I Got;B-Side;Folk Pop;199280;12.207.817;0;0;No;0;Eyes Wide Open;40000;12;Folk Pop;8/4/2015;spotify:track:66g4mn8jSks0Hu1zEcc81G;0.00877;0.671;0.696;0.000143;0.298;-5.641;0.0273;129.987;0.629
-68;Manchild;Single;Country pop;213645;1.158.076.862;;;Yes;227.186.960;Man’s Best Friend;0;1;;2025-08-29;spotify:track:2BwO5K8Q7EPAJSGze3AAh9;;;;;;;;;
-69;Tears;B-Side;Disco-pop;160183;537.626.548;;;Yes;87.483.432;Man’s Best Friend;0;2;;2025-08-29;spotify:track:42VUCXerQ5qTr4Qp6PhKo4;;;;;;;;;
-70;My Man on Willpower;B-Side;Pop;197817;211.130.240;;;No;0;Man’s Best Friend;0;3;;2025-08-29;spotify:track:3EMfeKtNK4q4k3sVjwg5Yy;;;;;;;;;
-71;Sugar Talking;B-Side;Pop;183770;198.471.006;;;No;0;Man’s Best Friend;0;4;;2025-08-29;spotify:track:5B3GZOZYXNzWpUXQC42hxZ;;;;;;;;;
-72;We Almost Broke Up Again Last Night;B-Side;Pop;203378;139.654.840;;;No;0;Man’s Best Friend;0;5;;2025-08-29;spotify:track:6wkYQMrFfb0huLB5Qn19Iv;;;;;;;;;
-73;Nobody’s Son;B-Side;Pop;182576;353.597.779;;;No;0;Man’s Best Friend;0;6;;2025-08-29;spotify:track:4SRShYMtFIGgnOU7iBicMH;;;;;;;;;
-74;Never Getting Laid;B-Side;Pop;208211;142.781.945;;;No;0;Man’s Best Friend;0;7;;2025-08-29;spotify:track:1PdUyYYw9sGU0yhLrpeHKt;;;;;;;;;
-75;When Did You Get Hot?;B-Side;Pop;145398;454.744.234;;;No;0;Man’s Best Friend;0;8;;2025-08-29;spotify:track:0je57Uq5eTk1wrPzn9sWbl;;;;;;;;;
-76;Go Go Juice;B-Side;Pop;193315;195.527.155;;;No;0;Man’s Best Friend;0;9;;2025-08-29;spotify:track:1qyw5wSUkEvH8DtaCdx7Lg;;;;;;;;;
-77;Don’t Worry I’ll Make You Worry;B-Side;Pop;222320;117.801.485;;;No;0;Man’s Best Friend;0;10;;2025-08-29;spotify:track:21IVPfi81m6ywNgOvqTj1i;;;;;;;;;
-78;House Tour;B-Side;Pop;169214;345.497.523;;;Yes;39.230.490;Man’s Best Friend;0;11;;2025-08-29;spotify:track:25jgQBxuUkGDdCG1WGKKN9;;;;;;;;;
-79;Goodbye;B-Side;Pop;225084;190.167.026;;;No;0;Man’s Best Friend;0;12;;2025-08-29;spotify:track:4tVVmShMF2PYdLqcejrsy2;;;;;;;;;
+68;Manchild;Single;Country pop;213645;1.158.076.862;1;1;Yes;227.186.960;Man’s Best Friend;880.000;1;;2025-08-29;spotify:track:2BwO5K8Q7EPAJSGze3AAh9;0.1;0.73;0.69;0;0.32;-5.1;0.06;123.0;0.84
+69;Tears;B-Side;Disco-pop;160183;537.626.548;1;1;Yes;87.483.432;Man’s Best Friend;880.000;2;;2025-08-29;spotify:track:42VUCXerQ5qTr4Qp6PhKo4;0.02;0.70;0.88;0;0.03;-4.9;0.05;113;0.48
+70;My Man on Willpower;B-Side;Pop;197817;211.130.240;4;2;No;0;Man’s Best Friend;880.000;3;;2025-08-29;spotify:track:3EMfeKtNK4q4k3sVjwg5Yy;0.09;0.61;0.78;0;0.10;-3.1;0.04;120;0.43
+71;Sugar Talking;B-Side;Pop;183770;198.471.006;5;3;No;0;Man’s Best Friend;880.000;4;;2025-08-29;spotify:track:5B3GZOZYXNzWpUXQC42hxZ;0.05;0.48;0.78;0;0.12;-4.8;0.03;152;0.40
+72;We Almost Broke Up Again Last Night;B-Side;Pop;203378;139.654.840;7;5;No;0;Man’s Best Friend;880.000;5;;2025-08-29;spotify:track:6wkYQMrFfb0huLB5Qn19Iv;0.53;0.35;0.57;0;0.25;-5.1;0.03;176;0.27
+73;Nobody’s Son;B-Side;Pop;182576;353.597.779;6;3;No;0;Man’s Best Friend;880.000;6;;2025-08-29;spotify:track:4SRShYMtFIGgnOU7iBicMH;0.34;0.45;0.74;0;0.06;-4.9;0.04;174;0.65
+74;Never Getting Laid;B-Side;Pop;208211;142.781.945;11;9;No;0;Man’s Best Friend;880.000;7;;2025-08-29;spotify:track:1PdUyYYw9sGU0yhLrpeHKt;0.55;0.57;0.55;0;0.13;-6.0;0.03;92;0.32
+75;When Did You Get Hot?;B-Side;Pop;145398;454.744.234;9;5;No;0;Man’s Best Friend;880.000;8;;2025-08-29;spotify:track:0je57Uq5eTk1wrPzn9sWbl;0.23;0.70;0.66;0;0.33;-4.6;0.13;89;0.57
+76;Go Go Juice;B-Side;Pop;193315;195.527.155;12;8;No;0;Man’s Best Friend;880.000;9;;2025-08-29;spotify:track:1qyw5wSUkEvH8DtaCdx7Lg;0.30;0.66;0.75;0;0.10;-4.1;0.05;132;0.71
+77;Don’t Worry I’ll Make You Worry;B-Side;Pop;222320;117.801.485;16;12;No;0;Man’s Best Friend;880.000;10;;2025-08-29;spotify:track:21IVPfi81m6ywNgOvqTj1i;0.46;0.46;0.44;0;0.15;-7.0;0.03;90;0.28
+78;House Tour;B-Side;Pop;169214;345.497.523;15;9;Yes;39.230.490;Man’s Best Friend;880.000;11;;2025-08-29;spotify:track:25jgQBxuUkGDdCG1WGKKN9;0.13;0.76;0.88;0;0.35;-4.9;0.08;118;0.61
+79;Goodbye;B-Side;Pop;225084;190.167.026;17;13;No;0;Man’s Best Friend;880.000;12;;2025-08-29;spotify:track:4tVVmShMF2PYdLqcejrsy2;0.18;0.57;0.62;0;0.10;-5.9;0.05;120;0.52
