@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "source_sha256": "918159d956f3a632b526da8eb7367b5889d1f780bfee3c8dd8495de58f02510e",
+  "n_total": 80,
+  "n_development": 68,
+  "n_test": 12,
+  "target": "spotify_streams",
+  "target_transform": "log1p",
+  "features": [
+    "duration_min",
+    "acousticness",
+    "danceability",
+    "energy",
+    "instrumentalness",
+    "liveness",
+    "loudness",
+    "speechiness",
+    "tempo",
+    "valence"
+  ],
+  "test_family": "Man’s Best Friend",
+  "split_seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "rf_seeds": [
+    11,
+    29,
+    47
+  ],
+  "folds_per_repeat": 3,
+  "primary_metric": "MAE log1p, macro por familia; media entre repeticoes",
+  "rf_params": {
+    "n_estimators": 200,
+    "max_depth": 3,
+    "min_samples_leaf": 3
+  },
+  "bootstrap": {
+    "unit": "album_family",
+    "n_resamples": 10000,
+    "seed": 2026,
+    "interpretation": "exploratoria; apenas seis grupos"
+  },
+  "limitations": [
+    "EDA previa na base inteira",
+    "origens complementares no teste",
+    "amostra nao probabilistica",
+    "sem previsao de streams em horizonte fixo"
+  ]
+}
