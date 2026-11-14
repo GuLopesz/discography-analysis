@@ -1,0 +1,14 @@
+teste,status
+"Integridade da base, tipos, alvo e isolamento do teste",OK
+Separação de grupos do fold técnico,OK
+Construção das três classes de modelo previstas,OK
+Construção das três classes de modelo previstas,OK
+"baseline: fit, pré-processamento, escalas, previsões, métricas e reprodução",OK
+"linear: fit, pré-processamento, escalas, previsões, métricas e reprodução",OK
+"forest_seed_11: fit, pré-processamento, escalas, previsões, métricas e reprodução",OK
+"forest_seed_29: fit, pré-processamento, escalas, previsões, métricas e reprodução",OK
+"forest_seed_47: fit, pré-processamento, escalas, previsões, métricas e reprodução",OK
+Baseline coincide com a média do log do treinamento invertida,OK
+Imputação de ausência artificial sem alterar os dados originais,OK
+Agregação das sementes da floresta na escala prevista pelo protocolo,OK
+Árvore-sonda consegue memorizar o subconjunto com entradas distintas,OK
