@@ -1,0 +1,30 @@
+{
+  "protocol_version": "1.0",
+  "source_sha256": "918159d956f3a632b526da8eb7367b5889d1f780bfee3c8dd8495de58f02510e",
+  "input_protocol_path": "experimental_protocol\\protocol.json",
+  "input_folds_path": "experimental_protocol\\folds.json",
+  "python": "3.13.7",
+  "pandas": "3.0.6",
+  "numpy": "2.5.3",
+  "scikit_learn": "1.9.1",
+  "joblib": "1.6.0",
+  "development_tracks": 68,
+  "n_folds": 15,
+  "n_fitted_estimators": 75,
+  "split_seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "rf_seeds": [
+    11,
+    29,
+    47
+  ],
+  "rf_aggregation": "mean of log predictions, followed by expm1",
+  "final_test_evaluated": false,
+  "model_selected": false,
+  "training_metrics_note": "Each track appears in two training folds per repeat; training scores are diagnostic, not generalization estimates."
+}

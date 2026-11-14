@@ -1,0 +1,91 @@
+model,split_seed,album_family,mae_log,n_tracks
+baseline,11,EVOLution,1.372762611026725,10
+baseline,11,Eyes Wide Open,1.6447591355665843,12
+baseline,11,Short n' Sweet,2.358084604627406,12
+baseline,11,Singular: Act I,1.3242247939714678,8
+baseline,11,Singular: Act II,1.1860200327618768,9
+baseline,11,emails i can’t send,1.0217485884990376,17
+baseline,29,EVOLution,1.818469016394382,10
+baseline,29,Eyes Wide Open,1.7022417735681223,12
+baseline,29,Short n' Sweet,3.072951645114666,12
+baseline,29,Singular: Act I,1.2670748672652574,8
+baseline,29,Singular: Act II,1.6288393052045085,9
+baseline,29,emails i can’t send,1.8284172138979489,17
+baseline,47,EVOLution,1.5098357179664388,10
+baseline,47,Eyes Wide Open,1.6447591355665843,12
+baseline,47,Short n' Sweet,2.446686495952451,12
+baseline,47,Singular: Act I,1.3242247939714678,8
+baseline,47,Singular: Act II,1.077911787915852,9
+baseline,47,emails i can’t send,0.9417686544421345,17
+baseline,71,EVOLution,1.818469016394382,10
+baseline,71,Eyes Wide Open,1.108880581786518,12
+baseline,71,Short n' Sweet,2.303210410596924,12
+baseline,71,Singular: Act I,1.2670748672652574,8
+baseline,71,Singular: Act II,1.1860200327618768,9
+baseline,71,emails i can’t send,1.0217485884990376,17
+baseline,101,EVOLution,2.0109722106761203,10
+baseline,101,Eyes Wide Open,1.8091882261438101,12
+baseline,101,Short n' Sweet,2.4865889294221284,12
+baseline,101,Singular: Act I,0.9046745313686961,8
+baseline,101,Singular: Act II,1.1860200327618768,9
+baseline,101,emails i can’t send,1.0217485884990376,17
+linear,11,EVOLution,1.2156611739571668,10
+linear,11,Eyes Wide Open,1.720567697169658,12
+linear,11,Short n' Sweet,2.145898390349588,12
+linear,11,Singular: Act I,1.4103143116187007,8
+linear,11,Singular: Act II,1.3396476713297807,9
+linear,11,emails i can’t send,0.9598740286185087,17
+linear,29,EVOLution,4.049324710522942,10
+linear,29,Eyes Wide Open,1.580740484271012,12
+linear,29,Short n' Sweet,3.1639040339578606,12
+linear,29,Singular: Act I,1.5687672509115211,8
+linear,29,Singular: Act II,1.3489182661136643,9
+linear,29,emails i can’t send,1.8776234648746757,17
+linear,47,EVOLution,5.154933795950382,10
+linear,47,Eyes Wide Open,1.720567697169658,12
+linear,47,Short n' Sweet,2.4539171443219776,12
+linear,47,Singular: Act I,1.4103143116187007,8
+linear,47,Singular: Act II,1.8230212471128273,9
+linear,47,emails i can’t send,1.0717525183686545,17
+linear,71,EVOLution,4.049324710522942,10
+linear,71,Eyes Wide Open,1.2348153998726639,12
+linear,71,Short n' Sweet,1.8677379827808094,12
+linear,71,Singular: Act I,1.5687672509115211,8
+linear,71,Singular: Act II,1.3396476713297807,9
+linear,71,emails i can’t send,0.9598740286185087,17
+linear,101,EVOLution,6.084624543769879,10
+linear,101,Eyes Wide Open,2.2461803033810646,12
+linear,101,Short n' Sweet,2.21170730924878,12
+linear,101,Singular: Act I,1.2001203260252695,8
+linear,101,Singular: Act II,1.3396476713297807,9
+linear,101,emails i can’t send,0.9598740286185087,17
+random_forest,11,EVOLution,1.3264933898977498,10
+random_forest,11,Eyes Wide Open,1.92980258943522,12
+random_forest,11,Short n' Sweet,2.3585987214855337,12
+random_forest,11,Singular: Act I,1.5570806776898145,8
+random_forest,11,Singular: Act II,1.5989831610518488,9
+random_forest,11,emails i can’t send,0.850587790350707,17
+random_forest,29,EVOLution,1.7174477772991552,10
+random_forest,29,Eyes Wide Open,1.611109898679409,12
+random_forest,29,Short n' Sweet,3.259222658133362,12
+random_forest,29,Singular: Act I,1.5813456871210083,8
+random_forest,29,Singular: Act II,1.6727336192804125,9
+random_forest,29,emails i can’t send,1.8609613376679168,17
+random_forest,47,EVOLution,1.5912810771798556,10
+random_forest,47,Eyes Wide Open,1.929802589435221,12
+random_forest,47,Short n' Sweet,2.3818161389160752,12
+random_forest,47,Singular: Act I,1.5570806776898154,8
+random_forest,47,Singular: Act II,1.5411141866502627,9
+random_forest,47,emails i can’t send,0.9024005557335966,17
+random_forest,71,EVOLution,1.7174477772991543,10
+random_forest,71,Eyes Wide Open,1.3242281222152967,12
+random_forest,71,Short n' Sweet,2.3232007368168,12
+random_forest,71,Singular: Act I,1.5813456871210092,8
+random_forest,71,Singular: Act II,1.598983161051848,9
+random_forest,71,emails i can’t send,0.8505877903507065,17
+random_forest,101,EVOLution,1.9859117808984812,10
+random_forest,101,Eyes Wide Open,2.277422092767044,12
+random_forest,101,Short n' Sweet,2.3981260613914026,12
+random_forest,101,Singular: Act I,1.1849846382586064,8
+random_forest,101,Singular: Act II,1.5989831610518475,9
+random_forest,101,emails i can’t send,0.8505877903507063,17
